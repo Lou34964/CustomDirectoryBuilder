@@ -1,0 +1,9 @@
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\bin\Debug\CustomDirectoryBuilder.exe.config
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\bin\Debug\CustomDirectoryBuilder.exe
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\bin\Debug\CustomDirectoryBuilder.pdb
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.csprojAssemblyReference.cache
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.MainPG.resources
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.Properties.Resources.resources
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.csproj.GenerateResource.cache
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.exe
+C:\Users\maple\source\repos\CustomDirectoryBuilder\CustomDirectoryBuilder\obj\Debug\CustomDirectoryBuilder.pdb
